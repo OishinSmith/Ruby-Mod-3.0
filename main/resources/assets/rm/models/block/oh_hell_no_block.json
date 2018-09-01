@@ -1,0 +1,6 @@
+{
+   "parent": "block/cube_all",
+   "textures": {
+       "all": "rm:blocks/oh_hell_no_block"
+   }
+}

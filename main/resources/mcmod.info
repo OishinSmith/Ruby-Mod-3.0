@@ -1,0 +1,16 @@
+[
+{
+  "modid": "rm",
+  "name": "Ruby Mod",
+  "description": "This is a Mod that introduces a few items like Ruby and Ruby blocks + More!",
+  "version": "1.0",
+  "mcversion": "1.13.1",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Oishin"],
+  "credits": "Forge Help me files",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": [None]
+}
+]

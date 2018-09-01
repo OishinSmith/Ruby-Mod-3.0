@@ -1,0 +1,8 @@
+
+//Items section
+item.ruby.name=Ruby
+item.stirfry.name=Stir fry
+
+//Blocks section
+tile.ruby_block.name=Ruby Block
+tile.oh_hell_no_block.name=Oh Hell No
