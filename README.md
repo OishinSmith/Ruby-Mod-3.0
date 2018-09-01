@@ -7,14 +7,10 @@ slightly and allow light to pass through them
 
 ```
     setSoundType(SoundType.METAL);
-    
-		setHardness(3.0f);
-		
-		setResistance(15.0f);
-		
-		setHarvestLevel("pickaxe", 3);
-		
-		setLightLevel(1.0f);
+    setHardness(3.0f);
+    setResistance(15.0f);
+    setHarvestLevel("pickaxe", 3);
+    setLightLevel(1.0f);
 ```
 
 It was also interesting to add a new class into the Mod which uses inheritance to allow the Ruby_Block in the folder "ModBlocks" to
