@@ -15,3 +15,7 @@ slightly and allow light to pass through them
 
 It was also interesting to add a new class into the Mod which uses inheritance to allow the Ruby_Block in the folder "ModBlocks" to
 inherit specific traits.
+
+# Descritpion
+A Mod that adds Rubies and Ruby Blocks into the game, theyre fully mineable and have textures aswell. There's also a few extra things 
+added into the Mod for testing like the "Stir fry" item.
